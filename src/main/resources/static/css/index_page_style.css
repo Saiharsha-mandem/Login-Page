@@ -1,0 +1,30 @@
+table{
+    text-align: center;
+    margin: 250px auto auto auto;
+    font-size: 25px;
+    width: 500px;
+    height: 200px;
+    background-color: #00efff;
+
+}
+
+body{
+    text-align: center;
+    background-color: #1b9ba3;
+}
+
+#submit:hover {
+    background-color: green;
+}
+
+#reset:hover {
+    background-color: red;
+}
+
+table:hover{
+    box-shadow: 0px 0px 10px 3px #4e5555;
+}
+
+.red{
+    color: red;
+}
